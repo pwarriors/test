@@ -2,5 +2,6 @@
 
 int main()
 {
-	cout<<"hello"<<endl;
+	cout<<"Hello"<<endl;
+	cout<<"Good Day"<<endl;
 }
